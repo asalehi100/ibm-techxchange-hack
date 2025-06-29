@@ -114,7 +114,7 @@ Detected Meeting Details:
 - Real-time Granite model parsing
 - Slack + Teams workflow automation
 - Final confirmation with meeting link
-
+### Watch Demo video of TaskMindAI [here.](https://drive.google.com/file/d/1gVAnuJy-r390XoEMwbPh5qLlyeDuc7gX/view?usp=drive_link)
 ---
 
 ## 📂 Project Folder Highlights
